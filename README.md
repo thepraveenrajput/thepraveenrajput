@@ -102,5 +102,5 @@
 </div>
 
 <div align="center">
-  ⭐️ From <a href="https://github.com/vishnugupta2711">Praveen Singh</a>
+  ⭐️ From <a href="https://github.com/thepraveenrajput">Praveen Singh</a>
 </div>
