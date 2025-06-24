@@ -88,7 +88,7 @@
 <!--     <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /></a>
     <a href="https://www.elastic.co/elastic-stack" target="_blank"><img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="elk stack" /></a> -->
-    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /></a>
+    
   </p>
 <!-- Programming Languages -->
   <h3 align="center">Programming Languages</h3>
