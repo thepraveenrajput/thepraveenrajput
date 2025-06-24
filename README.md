@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&height=50&lines=A+passionate+developer+from+India;Building+the+future+with+code;MERN+Stack+%7C+AI%2FML+%7C+IoT" alt="Description Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&height=50&lines=A+passionate+developer+from+India;Building+the+future+with+Code;MERN+Stack+%7C+AI%2FML+%7C+IoT" alt="Description Typing" />
 </h3>
 
 <br>
