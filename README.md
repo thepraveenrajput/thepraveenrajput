@@ -172,11 +172,10 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thepraveenrajput&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<!--   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveenrajput&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" />
- -->
- 
-  
+<!--   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveenrajput&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" /> -->
 
+
+ <!-- https://github-readme-streak-stats.herokuapp.com/?user=thepraveenrajput&theme=tokyonight&hide_border=true&bg_color=0D1117 -->
 
 </p>
 
