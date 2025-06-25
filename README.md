@@ -170,6 +170,9 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnugupta2711&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" />
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ak8057&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thepraveenrajput&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
