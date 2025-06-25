@@ -4,6 +4,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding" width="1000">
 </div>
 
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Praveen+Singh;Full-Stack+Developer;AI+%26+IoT+Enthusiast" alt="Typing SVG" />
 </h1>
