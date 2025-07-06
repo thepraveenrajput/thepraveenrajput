@@ -107,14 +107,14 @@
   </p>
 
   <!-- Database Management -->
- <!-- <h3 align="center">Database Management</h3>
+ <h3 align="center">Database Management</h3>
   <p align="center">
     <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /></a>
-    <a href="https://www.oracle.com/" target="_blank"><img src="https://img.shields.io/badge/DBMS-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="oracle" /></a>
-    <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /></a>
+<!--     <a href="https://www.oracle.com/" target="_blank"><img src="https://img.shields.io/badge/DBMS-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="oracle" /></a>
+    <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /></a> -->
   </p>
-  -->
+  
   
  <!-- AI/ML & Data Science -->
  <!-- <h3 align="center">AI/ML & Data Science</h3>
