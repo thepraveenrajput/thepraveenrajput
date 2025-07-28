@@ -91,8 +91,9 @@
   <p align="center">
     <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /></a>
     <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="express" /></a>
-<!--     <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /></a>
+   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /></a>
+    <!--  
     <a href="https://www.elastic.co/elastic-stack" target="_blank"><img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="elk stack" /></a> -->
     
   </p>
@@ -172,10 +173,10 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thepraveenrajput&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<!--   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveenrajput&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" /> -->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveenrajput&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" />
 
 
- <!-- https://github-readme-streak-stats.herokuapp.com/?user=thepraveenrajput&theme=tokyonight&hide_border=true&bg_color=0D1117 -->
+<!--  https://github-readme-streak-stats.herokuapp.com/?user=thepraveenrajput&theme=tokyonight&hide_border=true&bg_color=0D1117 -->
 
 </p>
 
