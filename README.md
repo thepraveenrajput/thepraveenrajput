@@ -118,14 +118,14 @@
   
   
  <!-- AI/ML & Data Science -->
- <!-- <h3 align="center">AI/ML & Data Science</h3>
+ <h3 align="center">AI/ML & Data Science</h3>
   <p align="center">
     <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" /></a>
     <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Data_Management-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /></a>
-    <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Problem_Solving-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a>
-    <a href="https://www.remotesensing.org/" target="_blank"><img src="https://img.shields.io/badge/Remote_Sensing-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="remote sensing" /></a>
+    <!-- <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Problem_Solving-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a>
+    <a href="https://www.remotesensing.org/" target="_blank"><img src="https://img.shields.io/badge/Remote_Sensing-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="remote sensing" /></a> -->
   </p>
-  -->
+ 
   
   <!-- IoT & Hardware -->
  <!--   <h3 align="center">IoT & Hardware</h3>
@@ -142,9 +142,9 @@
   <p align="center">
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
     <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /></a>
-   <!-- <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" /></a>
+   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" /></a>
     <a href="https://postman.com" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /></a>
-    <a href="https://www.elastic.co/" target="_blank"><img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="elastic" /></a>
+ <!--    <a href="https://www.elastic.co/" target="_blank"><img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="elastic" /></a>
     -->
   </p>
  <!-- Languages -->
