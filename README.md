@@ -162,7 +162,7 @@
 </p>
 
 <!-- GitHub Stats Section -->
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122180-c5e0e1a1-4de6-4a7c-b685-8aebd9aee10e.png" width="30" />
   GitHub Stats
 </h2>
@@ -175,7 +175,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thepraveenrajput&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveenrajput&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveenrajput&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" /> -->
 
  
 
@@ -184,17 +184,17 @@
 
 <!--  https://github-readme-streak-stats.herokuapp.com/?user=thepraveenrajput&theme=tokyonight&hide_border=true&bg_color=0D1117 -->
 
-</p>
+<!-- </p> -->
 
 
 
 <!-- Activity Graph -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thepraveenrajput&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ak8057&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ak8057&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=thepraveenrajput&limit=5&theme=dark&combine_all_yearly_contributions=true)
