@@ -30,7 +30,7 @@
 </p>
 
 <ul>
-  <li>🎓 <b>3rd-year undergraduate student at <i>SRM University</i></b></li>
+  <li>🎓 <b>FINAL YEAR undergraduate student at <i>SRM University</i></b></li>
 <!--   <li>💻 Full-Stack development expert with the <b>MERN stack</b></li> -->
   <li>🤖 Passionate about <b>Artificial Intelligence & Machine Learning</b></li>
   <li>📱 Enthusiastic about <b>Internet of Things (IoT)</b> innovations</li>
